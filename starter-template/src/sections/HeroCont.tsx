@@ -98,7 +98,7 @@ export default function Heroo() {
                 <motion.div ref={rightPointerScope}
                 initial={{ opacity: 0, y: 100, x: 275 }}
                 className="absolute right-80 -top-4 hidden lg:block">
-                    <Pointer name="ZCHPC" color="red" />
+                    <Pointer name="R.Norr" color="red" />
                 </motion.div>
 
                 {/* Hero Content */}
@@ -112,7 +112,7 @@ C.Alec | CYBERSECURITY| ZIMBABWE
                 Secure your business. Partner with Carlos Alec
                 </h1>
                 <p className="text-center text-xl text-white/50 mt-8 max-w-2xl mx-auto">
-                Connect your security to RoyallNorr and set up your business to save for finance and reduce risks. Your platforms will securely flow straight into the realm of confidentiality.
+                Connect your security with Carlos Alec and set up your business to save for finance and reduce risks. Your platforms will securely flow straight into the realm of confidentiality.
                 </p>
 
                 {/* Email Signup Form */}
