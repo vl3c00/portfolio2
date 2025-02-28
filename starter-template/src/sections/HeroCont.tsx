@@ -52,7 +52,7 @@ export default function Heroo() {
             ],
             ]);
         };
-    }, []);  
+    }, [leftDesignScope, leftDesignAnimate, leftPointerScope, leftPointerAnimate, rightDesignScope, rightDesignAnimate, rightPointerScope, rightPointerAnimate]);  
 
     return (
         <section className="py-24 overflow-x-clip" style={{
